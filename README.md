@@ -1,5 +1,6 @@
-# file_export
-A helper to export to a file using a custom configuration
+# Lib to Export Content to a File
+
+A helper to export the content to a file using a custom configuration.
 
 Important: this code will not compile, this is only a demonstration of my coding style.
 
